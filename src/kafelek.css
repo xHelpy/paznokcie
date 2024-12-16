@@ -1,0 +1,18 @@
+.kafelek {
+    display: flex;
+    width: 40%;
+    margin: 10px;
+    border-radius: 15px;
+}
+.kafelek:hover {
+    border: 1px solid black;
+}
+
+.tag {
+    text-align: center;
+    width: 250px;
+    background-color: #ff9873;
+}
+.data {
+    width: 300px;
+}

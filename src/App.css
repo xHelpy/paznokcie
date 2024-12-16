@@ -1,0 +1,13 @@
+
+h1 {
+  text-align: center;
+}
+banner button {
+  border: none;
+  background: none;
+  border-radius: 5px;
+}
+
+banner button:hover {
+  border: 1px solid black;
+}
